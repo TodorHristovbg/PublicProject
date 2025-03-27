@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Kursova rab\Kursova rab\obj\Debug\Kursova rab.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Kursova rab\Kursova rab\obj\Debug\Kursova_rab.Form1.resources
+C:\Users\Acer\source\repos\Kursova rab\Kursova rab\obj\Debug\Kursova_rab.Properties.Resources.resources
+C:\Users\Acer\source\repos\Kursova rab\Kursova rab\obj\Debug\Kursova rab.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Kursova rab\Kursova rab\obj\Debug\Kursova rab.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Kursova rab\Kursova rab\bin\Debug\Kursova rab.exe.config
+C:\Users\Acer\source\repos\Kursova rab\Kursova rab\bin\Debug\Kursova rab.exe
+C:\Users\Acer\source\repos\Kursova rab\Kursova rab\bin\Debug\Kursova rab.pdb
+C:\Users\Acer\source\repos\Kursova rab\Kursova rab\obj\Debug\Kursova rab.exe
+C:\Users\Acer\source\repos\Kursova rab\Kursova rab\obj\Debug\Kursova rab.pdb
